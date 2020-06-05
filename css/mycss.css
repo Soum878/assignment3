@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+.navbar-brand h1{
+    color: beige;
+}
+#header-nav{
+    background-color: lightseagreen;
+}
+.chicken , .sushi , .beef {
+    border: 3px solid white;
+    background-color: lightgray;
+    margin-bottom: 20px;
+   
+}
+
